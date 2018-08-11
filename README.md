@@ -1,6 +1,8 @@
 # KalmanFilter
 卡爾曼濾波器
 
+參考來源 https://github.com/yjsunwl/KalmanFilter#kalmanfilter
+
 关于卡尔曼滤波器的原理，网上有很多，这里就不做过多介绍，此demo为一阶卡尔曼滤波器的实现。
 
 主要为五个公式 （后面为一阶滤波器的系数）
